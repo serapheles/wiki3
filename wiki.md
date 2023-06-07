@@ -100,3 +100,4 @@ fn main() {
     }));
 }
 ```
+The official Rust book (https://doc.rust-lang.org/book/title-page.html) was used as an extensive reference, though this only captured a small portion of what was said about any given topic.
